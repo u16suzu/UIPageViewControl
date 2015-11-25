@@ -88,6 +88,7 @@
                     <connections>
                         <outlet property="dataLabel" destination="cF2-Le-7mQ" id="3EH-BK-JV6"/>
                         <outlet property="webView" destination="JUK-wY-HBI" id="Gi7-Ld-8lE"/>
+                        <outlet property="webView2" destination="11Z-ID-UMA" id="tw3-fN-lQg"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="GmD-Rr-ZGN" sceneMemberID="firstResponder"/>
